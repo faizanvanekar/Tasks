@@ -8,11 +8,9 @@
         <members>Hithere__C</members>
         <name>CustomObject</name>
     </types>
+    <types>
 	<members>Youthere__C</members>
         <name>CustomObject</name>
-    <types>
-    	<members>*</members>
-        <name>CustomObject</name>
     </types>
-    	<version>59.0</version>
+    <version>59.0</version>
 </Package>
